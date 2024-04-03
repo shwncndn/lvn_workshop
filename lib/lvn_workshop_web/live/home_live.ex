@@ -8,3 +8,16 @@ defmodule LvnWorkshopWeb.HomeLive do
 
   def render(assigns), do: ~H""
 end
+
+
+
+# Text("Hello, SwiftUI").foregroundStyle(.blue)
+
+
+# VStack(alignment: .leading)
+# <VStack allignment="leading"></VStack>
+
+# func foregroundStyle<S>(_)
+# # _ allows arg to be unnamed
+# Image("turtlerock")
+# <Image name="turtlerock"></Image>

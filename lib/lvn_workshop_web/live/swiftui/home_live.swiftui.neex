@@ -1,1 +1,23 @@
-<Text>Hello, SwiftUI</Text>
+<%!-- <Text>Hello, SwiftUI</Text>
+
+<VStack class="padding" alignment="leading">
+<Text class="title">Turtle Rock</Text>
+<HStack>
+<Text  font:subheadline">Joshua Tree National Park</Text>
+<Spacer />
+<Text font:
+
+subheadline">California</Text>
+</HStack>
+</VStack> --%>
+
+<%!-- <Image name="turtlerock" class="clipShape:circle overlay-circle shadow-radius">
+    <Circle template="white_circle"></Circle>
+</Image> --%>
+
+<VStack>
+    <Map 
+        position="region"
+        
+    />
+</VStack>
